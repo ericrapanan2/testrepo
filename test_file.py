@@ -3,6 +3,6 @@ def hello_world_function():
     print("hello world")
 
 
-def some_silly_function():
-    return 10
+def return_100(): 
+    return 100
 
