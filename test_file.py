@@ -1,5 +1,4 @@
 def hello_world_function():
-    print("Hello word")
+    "Function Doc String"
+    print("hello world")
 
-def other_function():
-    print("Hi")
